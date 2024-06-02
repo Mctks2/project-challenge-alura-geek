@@ -3,6 +3,8 @@
 Este projeto é uma página web onde é possível adicionar, visualizar e excluir produtos em uma loja virtual. 
 A interface permite que o usuário insira o nome, valor e imagem de um produto, que é então adicionado à lista de produtos disponíveis na loja. Além disso, uma API mockada com JSON é utilizada para exibir os elementos na loja.
 
+Foi utilizado o repositório para API: https://github.com/Mctks2/challenge-alurageek-api
+
 Funcionalidades Implementadas
 Create (Criação): Adiciona um novo produto à loja utilizando os dados fornecidos pelo usuário.
 Read (Leitura): Exibe todos os produtos armazenados na loja.
